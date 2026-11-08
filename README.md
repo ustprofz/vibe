@@ -23,9 +23,11 @@ GitHub's publishing documentation: https://docs.github.com/en/pages/getting-star
 - Financial Tools and Market Lab for high school and college learners.
 - Student project showcases: ExitMatch, Big Dipper, and Exit Radar.
 - Four expandable shared-project example briefs.
-- Quantitative & Algorithmic Trading Hackathon, workshops, high school outreach, and campus/industry collaborations.
+- Events: the Quantitative & Algorithmic Trading Hackathon.
+- Initiatives: workshops and mentoring, high school outreach, and campus/industry collaborations.
 - Development roadmap and clearly labelled goals through May 2028.
-- Faculty lead/site creator Jiang (Will) Zhang, staff partner Tommy Van Wylen, and student co-presidents Swarn Pratap Singh and Rhikeishi Lee.
+- Lab structure: faculty and staff leadership, student leadership, project teams, and a Board of Advisors made up of staff, faculty, and professionals.
+- A separate creator credit for Jiang (Will) Zhang, including title and LinkedIn.
 - Student interest form from the original page, professional contact links, and educational disclaimer.
 
 The UST logo is bundled locally. Opus College of Business, the Opus Way of Teaching initiative, and VIBE Lab are identified throughout the page.
@@ -45,7 +47,7 @@ Keep future goals separate from completed outcomes. The shared-project briefs ar
 
 The hackathon is dated **2026**. Its badge switches to “2026 event archive” after December 5, 2026, using the America/Chicago date. To feature a later event, update its dates and text in `index.html`, then update or remove the archive-date logic in `assets/site.js`. The page deliberately leaves workshop times and rooms to current organizer communications.
 
-If updating CSS or JavaScript, consider changing the `?v=1` suffix on the corresponding references in `index.html` to `?v=2` so returning visitors fetch the new assets.
+If updating CSS or JavaScript, consider changing the `?v=3` suffix on the corresponding references in `index.html` to `?v=4` so returning visitors fetch the new assets.
 
 ## Local preview
 
